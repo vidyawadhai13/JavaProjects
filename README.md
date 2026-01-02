@@ -94,3 +94,23 @@ C:\Users\HP\OneDrive\Desktop\Practical 1 OOP>java MyProgram1
 enter height:4
 enter width:9
 Area=36.0
+
+## MyProgramCube.java Output
+Microsoft Windows [Version 10.0.26200.7462]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\HP\OneDrive\Desktop\Practical 1 OOP>javac MyProgramCube.java
+
+C:\Users\HP\OneDrive\Desktop\Practical 1 OOP>java MyProgramCube
+area=1000.0
+
+## MyProgramCube1.java Output
+Microsoft Windows [Version 10.0.26200.7462]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\HP\OneDrive\Desktop\Practical 1 OOP>javac MyProgramCube1.java
+
+C:\Users\HP\OneDrive\Desktop\Practical 1 OOP>java MyProgramCube
+c1 area=1000.0
+c2 area=8000.0
+
