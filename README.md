@@ -19,7 +19,7 @@ Microsoft Windows [Version 10.0.26200.7462]
 
 C:\Users\HP\OneDrive\Desktop\Practical 1 OOP>javac MyProg.java
 
-C:\Users\HP\OneDrive\Desktop\Practical 1 OOP>java MyProg
+C:\Users\HP\OneDrive\Desktop\Practical 1 OOP>java MyProg 
 Square s1 height: 10.0
 Square s1 width: 10.0
 
